@@ -1,11 +1,20 @@
 body {
-  background-color: #18978f;
+  background-image: linear-gradient(to right, #c689c6, #e8a0bf);
   margin: auto;
   text-align: center;
+  color: #fff;
 }
 .img {
   height: 190px;
 }
 li {
   list-style-type: none;
+}
+
+.card {
+  background-image: linear-gradient(to right, #c689c6, #e8a0bf);
+}
+
+.card-header {
+  background-color: grey;
 }
