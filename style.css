@@ -1,0 +1,11 @@
+body {
+  background-color: #18978f;
+  margin: auto;
+  text-align: center;
+}
+.img {
+  height: 190px;
+}
+li {
+  list-style-type: none;
+}
